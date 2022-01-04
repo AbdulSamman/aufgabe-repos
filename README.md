@@ -8,4 +8,4 @@
 
 * checkliste -[]
 * bild muss  ![]
-* link ohne []
+* link ohne aufrufezeichen []
