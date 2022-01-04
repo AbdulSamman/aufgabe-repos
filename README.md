@@ -6,4 +6,6 @@
 
 
 
-* checkliste .[ ].
+* checkliste -[]
+* bild muss  ![]
+* link ohne []
