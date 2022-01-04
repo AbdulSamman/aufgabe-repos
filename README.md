@@ -1,5 +1,5 @@
 # aufgabe-repos
 Repository
-®Name: Abdul
+Name: Abdul
 Age: 32
 Hobby: schwimmen swimming schwimmen
